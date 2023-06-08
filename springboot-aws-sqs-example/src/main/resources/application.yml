@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    credentials:
+      access-key: "AKIAWDYKSVHHH5VCBPHU"
+      secret-key: "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"
+    end-point:
+      uri: "https://sqs.us-east-1.amazonaws.com/420392118734/javafullstack"
